@@ -60,9 +60,9 @@ There are currently 8 classes containing within this file, within the engine fol
 ## To Use
 ```bash
 # Clone this repository
-git clone https://github.com/covalent-team/covalent.git 
+git clone https://github.com/stevinh/pyvalent.git 
 # Go into the repository
-cd covalent 
+cd pyvalent 
 # Install dependencies
 npm install 
 npm install --global gulp-cli 
