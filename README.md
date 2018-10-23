@@ -1,11 +1,15 @@
-# Covalent
+# Pyvalent
 
-A drag-and-drop visual scripting language that will compile to JavaScript, built using Electron and ReactJS. 
+A drag-and-drop visual scripting language that will compile to Python, built using Electron and ReactJS. 
 Modelled after Unreal Engine Blueprint. 
 
-## Misson
+## Mission
 
-The misson of Covalent is to provide an easily extendable, node based editor which will allow novices and experts to quickly build Javascript code without actually writing a single line. This code can be used for frontend functionality, as well as backend node.js code. This could mean that a person could potentially build a full API using Nodejs using a Covalent, all drag-and-drop.
+You might be wondering, why Python? Isn't Python easy enough? Well, I mean yeah, but there isn't any good drag and drop alternative for young beginners (we're talking elementary, maybe middle school here). The best thing that I can find is Scratch (which is atrocious), so the mission of this project is to create a better alternative, where the program output is actually in a meaningful language (sorry, no company is going to hire you as a Scratch developer). 
+
+The original project, Covalent, compiles to JavaScript/Node.js. As a developer, I find JavaScript to be annoying and outdated (seriously, go look at jQuery, Angular.js, Electron, all of these other tools necessary to fix web development), so I think Python is a better alternative.
+
+Currently this is written in JavaScript and compiles out to Python. I might rewrite this to be all Pythonic in the future, you know.
 
 This is a brand new open source project, and there is still a long way to go, but I hope that you will join us on this adventure.
 
@@ -14,7 +18,7 @@ Join our Discord! - https://discord.gg/VVBMWGG
 ## File Structure 
 This is the folder structure of the project: 
 
-    covalent/
+    pyvalent/
     ├── engine/                       
     ├── menubar/
     ├── index.html 
